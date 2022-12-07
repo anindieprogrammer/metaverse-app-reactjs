@@ -25,6 +25,7 @@
 ### Built with
 
 - React.js
+- Next.js
 - Tailwind CSS
-- Syncfusion UI Elements
+- Framer-Motion
 - Mobile-first workflow
